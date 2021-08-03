@@ -7,6 +7,10 @@ body{
     background-color: rgb(149, 96, 209);
 }
 
+h1 h2{
+    color: rgb(138, 31, 138);
+}
+
 main{
     background-color: white;
     width: 500px;
